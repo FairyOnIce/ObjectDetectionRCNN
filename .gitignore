@@ -1,0 +1,8 @@
+__pycache__
+gif*
+VOCdevkit/
+.ipynb_checkpoints/
+Visualize*.ipynb
+X.npy
+y.npy
+
